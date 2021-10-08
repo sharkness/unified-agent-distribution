@@ -2,3 +2,7 @@
 .idea/
 /dockerized/data/
 /dockerized/wss/
+<<<<<<< HEAD
+=======
+.DS_Store
+>>>>>>> 42a65a4 (add DS_Store to gitignore)
